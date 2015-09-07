@@ -9,7 +9,7 @@ Essentially, the following files / resources are stored:
 
 2. Web application prototype that supports the management of employee activities and farms;
 
-3. Mobile application prototype on the Android platform that makes use of the beacon of resources (with Estimote´Beacons) and integration with MQTT server (for IoT).
+3. Mobile application prototype on the Android platform that makes use of the beacon of resources (with Estimote Beacons) and integration with MQTT server (for IoT).
 
 My contact info is:
 
