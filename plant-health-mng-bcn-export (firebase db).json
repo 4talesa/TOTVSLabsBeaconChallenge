@@ -1,0 +1,369 @@
+{
+  "activities" : {
+    "09092015" : {
+      "1000" : {
+        "employeeid" : "1000",
+        "farmid" : "2"
+      },
+      "1001" : {
+        "employeeid" : "1001",
+        "farmid" : "3"
+      }
+    },
+    "09102015" : {
+      "1000" : {
+        "employeeid" : "1000",
+        "farmid" : "1"
+      },
+      "1001" : {
+        "employeeid" : "1001",
+        "farmid" : "4"
+      }
+    },
+    "09112015" : {
+      "1000" : {
+        "employeeid" : "1000",
+        "farmid" : "4"
+      },
+      "1001" : {
+        "employeeid" : "1001",
+        "farmid" : "5"
+      }
+    },
+    "09122015" : {
+      "1000" : {
+        "employeeid" : "1000",
+        "farmid" : "1"
+      },
+      "1001" : {
+        "employeeid" : "1001",
+        "farmid" : "2"
+      }
+    },
+    "09132015" : {
+      "1000" : {
+        "employeeid" : "1000",
+        "farmid" : "3"
+      },
+      "1001" : {
+        "employeeid" : "1001",
+        "farmid" : "4"
+      }
+    },
+    "09142015" : {
+      "1000" : {
+        "employeeid" : "1000",
+        "farmid" : "2"
+      },
+      "1001" : {
+        "employeeid" : "1001",
+        "farmid" : "5"
+      }
+    },
+    "09152015" : {
+      "1000" : {
+        "employeeid" : "1000",
+        "farmid" : "1"
+      },
+      "1001" : {
+        "employeeid" : "1001",
+        "farmid" : "3"
+      }
+    },
+    "09162015" : {
+      "1000" : {
+        "employeeid" : "1000",
+        "farmid" : "5"
+      },
+      "1001" : {
+        "employeeid" : "1001",
+        "farmid" : "2"
+      }
+    },
+    "09172015" : {
+      "1000" : {
+        "employeeid" : "1000",
+        "farmid" : "1"
+      },
+      "1001" : {
+        "employeeid" : "1001",
+        "farmid" : "4"
+      }
+    },
+    "09182015" : {
+      "1000" : {
+        "employeeid" : "1000",
+        "farmid" : "3"
+      },
+      "1001" : {
+        "employeeid" : "1001",
+        "farmid" : "5"
+      }
+    },
+    "09192015" : {
+      "1000" : {
+        "employeeid" : "1000",
+        "farmid" : "2"
+      },
+      "1001" : {
+        "employeeid" : "1001",
+        "farmid" : "1"
+      }
+    },
+    "09202015" : {
+      "1000" : {
+        "employeeid" : "1000",
+        "farmid" : "4"
+      },
+      "1001" : {
+        "employeeid" : "1001",
+        "farmid" : "2"
+      }
+    },
+    "09212015" : {
+      "1000" : {
+        "employeeid" : "1000",
+        "farmid" : "3"
+      },
+      "1001" : {
+        "employeeid" : "1001",
+        "farmid" : "1"
+      }
+    }
+  },
+  "diseases" : [ null, {
+    "id" : "1",
+    "name" : "Escaldadura",
+    "weight" : 9
+  }, {
+    "id" : "2",
+    "name" : "Estria Vermelha",
+    "weight" : 8
+  }, {
+    "id" : "3",
+    "name" : "Mosaico",
+    "weight" : 6
+  } ],
+  "employees" : {
+    "1000" : {
+      "id" : "1000",
+      "lastname" : "Smith",
+      "name" : "John"
+    },
+    "1001" : {
+      "id" : "1001",
+      "lastname" : "Scott",
+      "name" : "Ryan"
+    },
+    "1002" : {
+      "id" : "1002",
+      "lastname" : "Lee",
+      "name" : "Mark"
+    }
+  },
+  "employees-registrations" : {
+    "5895b22c-40eb-4e31-b913-f542e3064057" : {
+      "date" : "09102015 17:21:03",
+      "employeeid" : "1000",
+      "farmofficeid" : "1",
+      "id" : "5895b22c-40eb-4e31-b913-f542e3064057"
+    },
+    "a1ac1f5d-f739-419f-9202-3529cb788f1d" : {
+      "date" : "09102015 17:20:16",
+      "employeeid" : "1000",
+      "farmofficeid" : "1",
+      "id" : "a1ac1f5d-f739-419f-9202-3529cb788f1d"
+    },
+    "f1cfd8c6-a2d5-474c-a0f2-58910cc3ea5a" : {
+      "date" : "09102015 17:21:28",
+      "employeeid" : "1000",
+      "farmofficeid" : "1",
+      "id" : "f1cfd8c6-a2d5-474c-a0f2-58910cc3ea5a"
+    }
+  },
+  "farms" : [ null, {
+    "beaconminormajor" : "1;1",
+    "beaconuuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+    "id" : "1",
+    "name" : "Fazenda Água Bonita",
+    "owner" : "Pedro Inácio",
+    "thumbnailid" : "farm1"
+  }, {
+    "beaconminormajor" : "1;2",
+    "beaconuuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+    "id" : "2",
+    "name" : "Fazenda Rio da Pedra",
+    "owner" : "Pedro Inácio",
+    "thumbnailid" : "farm2"
+  }, {
+    "beaconminormajor" : "1;3",
+    "beaconuuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+    "id" : "3",
+    "name" : "Fazenda Roseira",
+    "owner" : "Luis Pereira",
+    "thumbnailid" : "farm3"
+  }, {
+    "beaconminormajor" : "1;4",
+    "beaconuuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+    "id" : "4",
+    "name" : "Fazenda Morada dos Ipês",
+    "owner" : "Igor de Oliveira",
+    "thumbnailid" : "farm4"
+  }, {
+    "beaconminormajor" : "1;5",
+    "beaconuuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+    "id" : "5",
+    "name" : "Fazenda Cerejeiras",
+    "owner" : "Luciana Dutra",
+    "thumbnailid" : "farm5"
+  } ],
+  "farms-offices" : [ null, {
+    "beaconminormajor" : "1;1",
+    "beaconuuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+    "id" : "1"
+  }, {
+    "beaconminormajor" : "1;2",
+    "beaconuuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+    "id" : "2"
+  }, {
+    "beaconminormajor" : "1;3",
+    "beaconuuid" : "B9407F30-F5F8-466E-AFF9-25556B57FE6D",
+    "id" : "3"
+  } ],
+  "pests" : [ null, {
+    "id" : "1",
+    "name" : "Broca da Cana",
+    "weight" : 8
+  }, {
+    "id" : "2",
+    "name" : "Cigarrinha",
+    "weight" : 6
+  }, {
+    "id" : "3",
+    "name" : "Migdolus",
+    "weight" : 5
+  } ],
+  "phytosanitary-inspections" : {
+    "03340b8a-eaaf-4114-88d9-e957c70ef08c" : {
+      "date" : "09112015 08:09:23",
+      "diseases" : [ null, false, true, false ],
+      "employeeid" : "1000",
+      "farmid" : "1",
+      "id" : "03340b8a-eaaf-4114-88d9-e957c70ef08c",
+      "latitude" : "-",
+      "longitude" : "-",
+      "pests" : [ null, true, true, false ],
+      "phytosanitaryPunctuation" : 22
+    },
+    "06ad2382-263d-4c79-9f42-2b79d96ac0e4" : {
+      "date" : "09102015 01:57:06",
+      "diseases" : [ null, true, true, false ],
+      "employeeid" : "1000",
+      "farmid" : "2",
+      "id" : "06ad2382-263d-4c79-9f42-2b79d96ac0e4",
+      "latitude" : "-",
+      "longitude" : "-",
+      "pests" : [ null, false, true, true ],
+      "phytosanitaryPunctuation" : 28
+    },
+    "4e1ecd83-f23d-4c89-bd5a-4fdf0d47de4e" : {
+      "date" : "09102015 08:06:46",
+      "diseases" : [ null, false, true, true ],
+      "employeeid" : "1000",
+      "farmid" : "2",
+      "id" : "4e1ecd83-f23d-4c89-bd5a-4fdf0d47de4e",
+      "latitude" : "-",
+      "longitude" : "-",
+      "pests" : [ null, true, false, true ],
+      "phytosanitaryPunctuation" : 27
+    },
+    "67b82be6-f2dd-4380-893b-759595995ca6" : {
+      "date" : "09112015 10:54:52",
+      "diseases" : [ null, true, false, false ],
+      "employeeid" : "1000",
+      "farmid" : "3",
+      "id" : "67b82be6-f2dd-4380-893b-759595995ca6",
+      "latitude" : "-",
+      "longitude" : "-",
+      "pests" : [ null, true, false, false ],
+      "phytosanitaryPunctuation" : 17
+    },
+    "7f29e440-5cf3-4b33-aa1e-206b381cacb2" : {
+      "date" : "09112015 13:54:59",
+      "diseases" : [ null, true, true, true ],
+      "employeeid" : "1000",
+      "farmid" : "1",
+      "id" : "7f29e440-5cf3-4b33-aa1e-206b381cacb2",
+      "latitude" : "-22,654942",
+      "longitude" : "-50,420472",
+      "pests" : [ null, true, false, false ],
+      "phytosanitaryPunctuation" : 31
+    },
+    "85092794-e388-47e4-b88c-5b562ed23149" : {
+      "date" : "09102015 01:57:33",
+      "diseases" : [ null, true, false, false ],
+      "employeeid" : "1000",
+      "farmid" : "2",
+      "id" : "85092794-e388-47e4-b88c-5b562ed23149",
+      "latitude" : "-",
+      "longitude" : "-",
+      "pests" : [ null, false, false, true ],
+      "phytosanitaryPunctuation" : 14
+    },
+    "a97ae53c-bbc6-4c80-89e5-06a1fbc194b2" : {
+      "date" : "09112015 12:06:23",
+      "diseases" : [ null, true, true, true ],
+      "employeeid" : "1000",
+      "farmid" : "4",
+      "id" : "a97ae53c-bbc6-4c80-89e5-06a1fbc194b2",
+      "latitude" : "-",
+      "longitude" : "-",
+      "pests" : [ null, true, true, true ],
+      "phytosanitaryPunctuation" : 42
+    },
+    "c4c84bf1-3237-4e55-8210-3a42247d71bd" : {
+      "date" : "09102015 01:56:58",
+      "diseases" : [ null, false, true, false ],
+      "employeeid" : "1000",
+      "farmid" : "1",
+      "id" : "c4c84bf1-3237-4e55-8210-3a42247d71bd",
+      "latitude" : "-",
+      "longitude" : "-",
+      "pests" : [ null, true, false, true ],
+      "phytosanitaryPunctuation" : 21
+    },
+    "cee859b8-e4e3-4551-8b21-fa0ca0b0633d" : {
+      "date" : "09112015 13:44:55",
+      "diseases" : [ null, false, false, true ],
+      "employeeid" : "1000",
+      "farmid" : "5",
+      "id" : "cee859b8-e4e3-4551-8b21-fa0ca0b0633d",
+      "latitude" : "-22,655084",
+      "longitude" : "-50,420545",
+      "pests" : [ null, true, false, false ],
+      "phytosanitaryPunctuation" : 14
+    },
+    "e225c447-0f62-4fc6-bfb7-1bd4eda6f1a6" : {
+      "date" : "09112015 11:13:33",
+      "diseases" : [ null, true, false, false ],
+      "employeeid" : "1000",
+      "farmid" : "3",
+      "id" : "e225c447-0f62-4fc6-bfb7-1bd4eda6f1a6",
+      "latitude" : "-",
+      "longitude" : "-",
+      "pests" : [ null, true, true, false ],
+      "phytosanitaryPunctuation" : 23
+    },
+    "ea5ef243-d33e-4222-826a-19f376a0e0c6" : {
+      "date" : "09102015 10:33:24",
+      "diseases" : [ null, false, false, true ],
+      "employeeid" : "1000",
+      "farmid" : "1",
+      "id" : "ea5ef243-d33e-4222-826a-19f376a0e0c6",
+      "latitude" : "-",
+      "longitude" : "-",
+      "pests" : [ null, true, true, false ],
+      "phytosanitaryPunctuation" : 20
+    }
+  }
+}

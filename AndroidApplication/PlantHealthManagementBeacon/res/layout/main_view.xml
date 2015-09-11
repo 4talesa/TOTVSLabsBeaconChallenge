@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/logo" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:text="@string/lblPlantHealthManagement"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <Button
+                android:id="@+id/btnPhytosanitaryInspection"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/lblPhytosanitaryInspection" />
+
+            <Button
+                android:id="@+id/btnDeviceConfiguration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/lblDeviceConfiguration" />
+
+            <Button
+                android:id="@+id/btnInformation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/lblInformation" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:orientation="vertical"
+            android:padding="10dp" >
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/logo_totvs" />
+
+            <TextView
+                android:id="@+id/lblFarm"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp"
+                android:text="@string/blTOTVSAgribusiness"
+                android:textAppearance="?android:attr/textAppearanceSmall" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/itemSave"
+        android:icon="@drawable/check"
+        android:title="@string/lblSave">
+    </item>
+    <item
+        android:id="@+id/itemCancel"
+        android:icon="@drawable/cancel"
+        android:title="@string/lblCancel">
+    </item>
+
+</menu>

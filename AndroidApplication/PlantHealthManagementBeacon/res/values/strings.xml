@@ -1,0 +1,48 @@
+<resources>
+
+    <string name="app_name">TOTVS Plant Health Management</string>
+    <string name="lblPlantHealthManagement">Plant Health Management</string>
+    <string name="blTOTVSAgribusiness">TOTVS Agribusiness</string>
+    <string name="blTOTVSLabs">TOTVS Labs</string>
+    <string name="lblTOTVSLabsBeaconChallenge">TOTVS Labs Beacon Challenge</string>
+    <string name="lblInformation">Information</string>
+    <string name="lblGuilhermeDeClevaFarto">Guilherme de Cleva Farto</string>
+    <string name="lblGuilhermeMail">guilherme.farto@totvs.com.br</string>
+    <string name="lblTOTVSSite">http://www.totvs.com</string>
+    <string name="lblTOTVSLabsSite">http://www.totvslabs.com</string>
+    <string name="lblPhytosanitaryInspection">Phytosanitary Inspection</string>
+    <string name="lblDeviceConfiguration">Device Configuration</string>
+    <string name="lblFarms">Farms</string>
+    <string name="lblFarmsOffices">Farms Offices</string>
+    <string name="lblSynchronize">Synchronize</string>
+    <string name="lblPests">Pests</string>
+    <string name="lblDiseases">Diseases</string>
+    <string name="lblSynchronizedRecords">synchronized records</string>
+    <string name="lblFarm">Farm</string>
+    <string name="lblStart">Start</string>
+    <string name="lblMyActivities">My Activities</string>
+    <string name="lblActivitiesSynchronized">Activities synchronized</string>
+    <string name="lblAttention">Attention</string>
+    <string name="lblConfirmPhytosanitaryInspection">Do you confirm phytosanitary inspection on the selected farm?</string>
+    <string name="lblYes">Yes</string>
+    <string name="lblNo">No</string>
+    <string name="lblCancel">Cancel</string>
+    <string name="lblPhytosanitaryInspectionDetail">Phytosanitary Inspection (Detail)</string>
+    <string name="lblSave">Save</string>
+    <string name="lblLatitude">Latitude</string>
+    <string name="lblLongitude">Longitude</string>
+    <string name="lblPhytosanitaryPunctuation">Phytosanitary Punctuation</string>
+    <string name="lblPhytosanitaryInspections">Phytosanitary Inspections</string>
+    <string name="lblUltraviolet">Ultraviolet: {0}</string>
+    <string name="lblTemperature">Temperature: {0}° Celsius</string>
+    <string name="lblHumidity">Humidity: {0}%</string>
+    <string name="lblNodataSelectedSensor">No data for the selected sensor.</string>
+    <string name="lblFarmSensors">Farm Sensors</string>
+    <string name="lblEmployeeSuccessfullyRegistered">Employee successfully registered.</string>
+    <string name="lblCorrectFarm">I\'m on the correct farm.</string>
+    <string name="lblYouAreCorrectFarm">You are on the correct farm.</string>
+    <string name="lblYouAreIncorrectFarm">You are not on the correct farm.</string>
+    <string name="lblFarmDetected">Farm successfully detected.</string>
+    <string name="lblFarmOfficeDetected">Farm office successfully detected.</string>
+
+</resources>
