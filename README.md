@@ -11,6 +11,20 @@ Essentially, the following files / resources are stored:
 
 3. Mobile application prototype on the Android platform that makes use of the beacon of resources (with Estimote Beacons) and integration with MQTT server (for IoT).
 
+Phew! Several technologies were used in this POC:
+
+* Java
+* Google Android
+* Python
+* Estimote Beacons
+* Firebase
+* Internet of Things (IoT)
+* Message Queue Telemetry Transport (MQTT)
+* Paho M2M
+* Bootstrap
+* JQuery
+* Highcharts
+
 My contact info is:
 
 Guilherme de Cleva Farto
